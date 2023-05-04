@@ -8,7 +8,7 @@ Good feelings win!
 
 ⚠️**WARNING**: This counter is hypoallergenic!
 
-<a href="https://cat-counter-forcatlovers.netlify.app/" target='_blank'>TRY THE APP FOR YOURSELF</a>
+<a href="https://cat-counter-forcatlovers.netlify.app/" target="_blank">TRY THE APP FOR YOURSELF</a>
 
 ### DESCRIPTION
 This counter is a Vanilla JS project. Every element is created using Javascript except for the main container div. 
