@@ -118,7 +118,6 @@ function catSpawn() {
   document.body.appendChild(catImg);
   //add meow Sound
   playRandomMeow();
-  console.log(catImg.offsetHeight);
 }
 
 //-- function to remove last element cat added
