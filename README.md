@@ -8,11 +8,10 @@ Good feelings win!
 
 ⚠️**WARNING**: This counter is hypoallergenic!
 
-[Try it for yourself.](https://pages.github.com/)ADD LINK
+[Try it for yourself.](https://cat-counter-forcatlovers.netlify.app/)
 
 ### DESCRIPTION
-This counter is a Vanilla JS project. Every element is created using Javascript except for the main container div.
-ADD IMG
+This counter is a Vanilla JS project. Every element is created using Javascript except for the main container div. 
 
 ### FUNCTIONALITY
 The main purpose is to increment and decrement a given value set to 0 using + and - buttons. You have the option to reset everything and return to the starting situation with the Reset button.  
@@ -25,3 +24,5 @@ If you decrement the value meows will be sad and this is the reason why you are 
 ### EVERYWHERE
 The app is accessible from any device, so you can use it jokingly with friends or in a time of need at the office.  
 If you are on the computer you can also use the keyboard +/- buttons or 'Canc' to reset.  
+<img src='https://user-images.githubusercontent.com/125393629/236195465-f68b0141-05a2-4ee1-a403-2cfd26947c5f.png' width='70%'> <img src='https://user-images.githubusercontent.com/125393629/236195289-9afc6d6e-38e1-452c-b1a9-c62453730874.png' width='25%'>
+
